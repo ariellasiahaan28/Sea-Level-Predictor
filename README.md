@@ -13,13 +13,13 @@ Use the data to complete the following tasks:
 - The x label should be Year, the y label should be Sea Level (inches), and the title should be Rise in Sea Level.
 - The boilerplate also includes commands to save and return the image.
 
-Development
+# Development
 Code is written in sea_level_predictor.py. For development, and main.py to test your code.
 
-Testing
+# Testing
 The unit tests for this project are in test_module.py. I imported the tests from test_module.py to main.py for your convenience.
 
-Data Source
+# Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
 
 
