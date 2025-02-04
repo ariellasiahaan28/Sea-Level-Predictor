@@ -14,10 +14,10 @@ Use the data to complete the following tasks:
 - The boilerplate also includes commands to save and return the image.
 
 # Development
-Code is written in sea_level_predictor.py. For development, and main.py to test your code.
+For development, code is written in sea_level_predictor.py and main.py to test your code.
 
 # Testing
-The unit tests for this project are in test_module.py. I imported the tests from test_module.py to main.py for your convenience.
+The unit tests for this project are in test_module.py. I imported the tests from test_module.py to main.py for convenience.
 
 # Data Source
 Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
