@@ -1,5 +1,7 @@
 # Sea-Level-Predictor
 
+Note: This project was created in 2023 on Replit and has been moved to GitHub in 2025 for convenience
+
 The Sea Level Predictor project involves using a dataset to model and predict sea-level rise over time. The task requires creating a linear regression model to forecast future sea levels based on historical data, using Python and libraries like Matplotlib and pandas for data manipulation and visualization. This project provides hands-on experience in working with time-series data and regression analysis.
 
 I analyze a dataset of the global average sea level change since 1880, using the data to predict the sea level change through year 2050.
